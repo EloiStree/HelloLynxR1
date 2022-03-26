@@ -1,4 +1,4 @@
-# HelloLynxR1
+# Hello Lynx R1
 Find here steps of my exploration on how to use Lynx R1.
 
 Hey, this company is amazing and the device is what the community expecting of Quest but not receiveid because of Mark Z. greed.
