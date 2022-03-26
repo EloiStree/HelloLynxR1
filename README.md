@@ -26,6 +26,7 @@ Feel free to explore and ask question.
 -  2021 07 08 : https://youtu.be/e7tnFtKvPPw
 -  2021 07 29 : https://youtu.be/IxV17JXDkkI
 -  2021 09 09 : https://youtu.be/lv5WXf24uto
+-  2021 10 05 : https://youtu.be/bcsP3dOW7Fo
 -  2021 10 20 : https://youtu.be/pHEg8NYIEb4
 -  2021 11 03 : https://youtu.be/WytBflq8fbQ
 -  2021 11 11 : https://youtu.be/tlRgh5IGu34
