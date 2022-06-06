@@ -4,6 +4,9 @@ As I don't have the Lynx yet, this tutorial run on Oculus Quest 2 to prepare of 
 
 
 
+What is Open XR
+- Conference on the subject https://youtu.be/cMyUqDeGH6A
+
 How to do AR passthrough with Quest ?
 - https://youtu.be/g2PnINKleTM
 
@@ -28,3 +31,6 @@ What alternative data Open XR let's you access ?
 
 
 --------------------------
+
+Unity tutorial for hand tracking:
+https://developer.oculus.com/documentation/unity/unity-handtracking/
