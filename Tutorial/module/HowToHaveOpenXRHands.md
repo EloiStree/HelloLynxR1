@@ -7,6 +7,7 @@ https://docs.ultraleap.com/ultralab/openxr-hand-tracking-in-unity.html
 Ready to use with Oculus XR: 
 - https://youtu.be/g2PnINKleTM
 - https://github.com/dilmerv/OculusPassthroughWithHands
+- https://github.com/dilmerv/OculusQuestHandTrackingPhysicsURP.git
 
 -----------------------
 
