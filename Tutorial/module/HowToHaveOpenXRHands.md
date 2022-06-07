@@ -5,7 +5,8 @@ With Leap Motion Hands:
 https://docs.ultraleap.com/ultralab/openxr-hand-tracking-in-unity.html
 
 Ready to use with Oculus XR: 
-https://github.com/dilmerv/OculusPassthroughWithHands
+- https://youtu.be/g2PnINKleTM
+- https://github.com/dilmerv/OculusPassthroughWithHands
 
 -----------------------
 
