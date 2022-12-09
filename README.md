@@ -42,3 +42,8 @@ Feel free to explore and ask question.
 -https://www.youtube.com/watch?v=ovegBTeBkc0
 [![image](https://user-images.githubusercontent.com/20149493/164105098-327ef4e1-5aa1-4720-a9bb-d4127b4dff75.png)](
 -https://www.youtube.com/watch?v=ovegBTeBkc0)
+
+
+3D Mesh:
+[![image](https://user-images.githubusercontent.com/20149493/206757065-98b5ca18-f11d-4174-aa97-4e0a798ae5cb.png)](https://sketchfab.com/3d-models/lynx-r1-f099f43c515947328906020b04f33d65)
+https://sketchfab.com/3d-models/lynx-r1-f099f43c515947328906020b04f33d65
