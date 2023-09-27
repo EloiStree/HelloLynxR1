@@ -1,5 +1,42 @@
 # Hello Lynx R1
 
+Hello to you. 
+
+Fan of the philosophy of the device Lynx R1 more that the technical advantage of the headset, this repository is a landing respository to learn the Lynx R1 and indirectly the Quest 3.
+
+What you can expect here are:
+- note of my researches on the topic
+- note on my attempt to create tutorial and workshop
+- small demo from my attempts and workshop tutorial
+- tutorial build for workshop in real life
+- 3D assets or code made for the headset
+- redirection to other tutorials on the web on the topic
+- ...
+
+Basicaly, if you want to work on the device this repository is a good place to start but not a ready to read and learn one.
+
+Feel free to contact me on Discord for any questions:  
+https://eloistree.github.io/r/discord
+
+
+## My goals
+
+
+Personnaly, my goal with the Lynx is going to be:  
+- Having fun exploring what we can do with it in experiment, game jam and small contract with client
+- Re-learn how to do XR interaction to build remote control software in AR
+- Learn what library of AR can be use on the Lynx R1 (and the Quest 3)
+- Create tool to be able to anchor in space interaction menu and object
+- Play to game on cross-platform from the headset  
+- Teach in small workshop how to use the device from 2024 to 2026.  
+
+If feel that you are in one of those sections, I invite you to follow my work.    
+Linked In : [Éloi Strée](https://eloistree.github.io/r/contact)  
+  
+
+
+
+----------------------------------------
 ![76izwg](https://user-images.githubusercontent.com/20149493/228629377-fcf59cc6-435d-43fd-9abf-0adc362d3def.jpg)
 Find here steps of my exploration on how to use Lynx R1.
 
