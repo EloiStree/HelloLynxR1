@@ -8,6 +8,7 @@ Contact & Support: [Discord: Eloi Support](https://eloistree.github.io/r/discord
 
 
 # Hello Lynx R1
+.
 
 Hello to you. 
 
