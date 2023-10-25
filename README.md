@@ -97,3 +97,19 @@ Feel free to explore and ask question.
 3D Mesh:
 [![image](https://user-images.githubusercontent.com/20149493/206757065-98b5ca18-f11d-4174-aa97-4e0a798ae5cb.png)](https://sketchfab.com/3d-models/lynx-r1-f099f43c515947328906020b04f33d65)
 https://sketchfab.com/3d-models/lynx-r1-f099f43c515947328906020b04f33d65
+
+
+
+--------------
+
+# Whish List
+
+Want to help me experiment on weird stuff ?  
+You can invest on buying me some hardware I need to experiment.  
+I always out of money because every thing is invest in my curiosity to know if we could do X.  
+
+
+- [Be able to record from the lens with a webcam](https://github.com/EloiStree/HelloLynxR1/issues/36):https://amzn.to/3QtEPH9
+  - [![image](https://github.com/EloiStree/HelloLynxR1/assets/20149493/371f77c2-37ee-48f7-9ac8-89e6ee2afdee)](https://amzn.to/3QtEPH9)https://amzn.to/3QtEPH9
+
+
