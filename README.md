@@ -106,7 +106,7 @@ https://sketchfab.com/3d-models/lynx-r1-f099f43c515947328906020b04f33d65
 
 Want to help me experiment on weird stuff ?  
 You can invest on buying me some hardware I need to experiment.  
-I always out of money because every thing is invest in my curiosity to know if we could do X.  
+I always out of money because everything is invest in my curiosity to know if we could do X.  
 
 
 - [Be able to record from the lens with a webcam](https://github.com/EloiStree/HelloLynxR1/issues/36):https://amzn.to/3QtEPH9
