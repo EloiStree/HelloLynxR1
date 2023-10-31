@@ -1,5 +1,6 @@
 ![WIP](https://github.com/EloiStree/EloiStree/blob/master/Images/WIP.png)   
 As the new wave of XR devices start, I re-learn to work in the industry. As I do, I give you my notes to follow the path I take if you want to join the adventure.  
+
 Workshops: [Old Quest 2](https://github.com/EloiStree/CodeAndQuestsEveryDay) - [Lynx R1](https://github.com/EloiStree/HelloLynxR1) - [Android XR: Quest & Lynx](https://github.com/EloiStree/HelloAndroidXR) - [Quest 3](https://github.com/EloiStree/HelloQuest3)  
 Contact & Support: [Discord: Eloi Support](https://eloistree.github.io/r/discord) - [Tipeee Donation](https://en.tipeee.com/eloistree) - [Download my games](https://eloistree.github.io/r/download/) - [Projects](https://github.com/EloiStree/ProjectsID)  
 
@@ -8,7 +9,8 @@ Contact & Support: [Discord: Eloi Support](https://eloistree.github.io/r/discord
 
 
 # Hello Lynx R1
-.
+![IMG_20231026_163222](https://github.com/EloiStree/HelloLynxR1/assets/20149493/c9f97f63-e357-416d-8429-18277b156780)
+
 
 Hello to you. 
 
@@ -23,10 +25,11 @@ What you can expect here are:
 - redirection to other tutorials on the web on the topic
 - ...
 
-Basicaly, if you want to work on the device this repository is a good place to start but not a ready to read and learn one.
+Basicaly, if you want to work on the device this repository is a good place to start but not a "ready to read and learn" one.
 
 Feel free to contact me on Discord for any questions:  
 https://eloistree.github.io/r/discord
+_( I am also always on the Unofficial Lynx Discord: https://discord.gg/4udE5PWHxj )_
 
 
 ## My goals
