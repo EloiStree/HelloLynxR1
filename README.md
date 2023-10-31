@@ -11,6 +11,7 @@ Shortcut:
 ADB [toolbox.lynx-r.com](https://toolbox.lynx-r.com)  
 Lynx Download tool: [https://portal.lynx-r.com/downloads/](https://portal.lynx-r.com/downloads/)  
 Start Manual: [https://portal.lynx-r.com/documentation/view/getting-started](https://portal.lynx-r.com/documentation/view/getting-started)  
+My notes: [https://github.com/EloiStree/HelloLynxR1/issues](https://github.com/EloiStree/HelloLynxR1/issues)
 
 ----------------------------
 
