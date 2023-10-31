@@ -4,6 +4,14 @@ As the new wave of XR devices start, I re-learn to work in the industry. As I do
 Workshops: [Old Quest 2](https://github.com/EloiStree/CodeAndQuestsEveryDay) - [Lynx R1](https://github.com/EloiStree/HelloLynxR1) - [Android XR: Quest & Lynx](https://github.com/EloiStree/HelloAndroidXR) - [Quest 3](https://github.com/EloiStree/HelloQuest3)  
 Contact & Support: [Discord: Eloi Support](https://eloistree.github.io/r/discord) - [Donation](https://github.com/sponsors/EloiStree) - [Download my games](https://eloistree.github.io/r/download/) - [Projects](https://github.com/EloiStree/ProjectsID)  
 
+
+------------------
+
+Shortcut: 
+ADB [toolbox.lynx-r.com](https://toolbox.lynx-r.com)  
+Lynx Download tool: [https://portal.lynx-r.com/downloads/](https://portal.lynx-r.com/downloads/)  
+Start Manual: [https://portal.lynx-r.com/documentation/view/getting-started](https://portal.lynx-r.com/documentation/view/getting-started)  
+
 ----------------------------
 
 
