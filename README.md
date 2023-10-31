@@ -27,9 +27,10 @@ What you can expect here are:
 
 Basicaly, if you want to work on the device this repository is a good place to start but not a "ready to read and learn" one.
 
-Feel free to contact me on Discord for any questions:  
-https://eloistree.github.io/r/discord
-_( I am also always on the Unofficial Lynx Discord: https://discord.gg/4udE5PWHxj )_
+Feel free to contact me on Discord for any questions:    
+https://eloistree.github.io/r/discord  
+_( I am also always on the Unofficial Lynx Discord:_  
+_https://discord.gg/4udE5PWHxj )_    
 
 
 ## My goals
