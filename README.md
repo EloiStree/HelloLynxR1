@@ -85,6 +85,14 @@ https://www.lynx-r.com/
 https://sketchfab.com/3d-models/lynx-r1-f099f43c515947328906020b04f33d65
 
 
+-------------
+
+## ADB useful command
+
+- `adb shell screencap -p /sdcard/screencap1.png && adb pull /sdcard/screencap1.png`
+- `adb shell am start -a android.intent.action.VIEW -d https://github.com/EloiStree/HelloLynxR1/issues/73`
+- `adb kill-server`
+
 
 --------------
 
