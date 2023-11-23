@@ -95,17 +95,3 @@ https://sketchfab.com/3d-models/lynx-r1-f099f43c515947328906020b04f33d65
 - `adb shell am start -a android.intent.action.VIEW -d https://github.com/EloiStree/HelloLynxR1/issues/73`
 - `adb kill-server`
 
-
---------------
-
-## Whish List
-
-Want to help me experiment on weird stuff ?  
-You can invest on buying me some hardware I need to experiment.  
-I always out of money because everything is invest in my curiosity to know if we could do X.  
-
-
-- [Be able to record from the lens with a webcam](https://github.com/EloiStree/HelloLynxR1/issues/36):https://amzn.to/3QtEPH9
-  - [![image](https://github.com/EloiStree/HelloLynxR1/assets/20149493/371f77c2-37ee-48f7-9ac8-89e6ee2afdee)](https://amzn.to/3QtEPH9)https://amzn.to/3QtEPH9
-
-
