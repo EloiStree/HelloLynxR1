@@ -5,6 +5,8 @@ Workshops: [Old Quest 2](https://github.com/EloiStree/CodeAndQuestsEveryDay) - [
 Contact & Support: [Discord: Eloi Support](https://eloistree.github.io/r/discord) - [Donation](https://github.com/sponsors/EloiStree) - [Download my games](https://eloistree.github.io/r/download/) - [Projects](https://github.com/EloiStree/ProjectsID)  
 
 
+My Lynx store: https://portal.lynx-r.com/organization/2/eloi-lab
+
 ------------------
 
 Shortcut: 
